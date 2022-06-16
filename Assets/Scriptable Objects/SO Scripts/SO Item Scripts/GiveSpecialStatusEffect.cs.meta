@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9be35269703d4b9da81d7127160b1ecc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemSprite: {instanceID: 0}
+  - volumeProfile: {fileID: 11400000, guid: 8b1a57606f0c74f44a083bcb45715e4c, type: 2}
+  - customMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

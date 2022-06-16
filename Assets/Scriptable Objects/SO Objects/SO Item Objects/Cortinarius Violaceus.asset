@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1f12adc7d034ba29f2f76b3c67811d0, type: 3}
+  m_Name: Cortinarius Violaceus
+  m_EditorClassIdentifier: 
+  itemDescription:
+  - {fileID: 11400000, guid: 7343acbbca9af914cba9b74224020255, type: 2}
+  itemSprite: {fileID: 21300000, guid: b081ce9280c4b0c4780a690ef4391b02, type: 3}
+  enableCustomMaterial: 0
+  customMaterial: {fileID: 0}
+  materialParts: 
+  enableCustomColor: 1
+  itemColor: {r: 0.3763611, g: 0, b: 0.6792453, a: 1}
+  colorParts: 00000000
+  addMaxMana: 20

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room
+  - MainRoom
+  - SoundEffect
+  - Text
+  - Enemy
+  - Node
+  - PlayerShield
+  - EnemyAttack
+  - BossTeleport
+  - LoadingScreen
+  - PlayerSpawn
+  - Projectile
+  - ProjectileAttack
+  - Minimap
+  - MinimapTarget
+  - Icon
+  - IconTarget
+  - RefCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

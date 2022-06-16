@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: bbff0d44ba387e74f93b8b3e62b7c3cc
+  - enabled: 1
+    path: Assets/Scenes/lvl1/lvl1.unity
+    guid: 6e060de853dbabb419d6e4f1eb220dc2
+  - enabled: 1
+    path: Assets/Scenes/lvl2/lvl2.unity
+    guid: 1140e14491001b547ae4555cf86ef046
+  - enabled: 1
+    path: Assets/Scenes/lvl3/lvl3.unity
+    guid: 2e06cf9999c05814fb18c77b389d8cac
+  - enabled: 1
+    path: Assets/Scenes/bossRoom/bossRoom.unity
+    guid: 95a681c155c11be4498e5777f13dd46c
+  - enabled: 1
+    path: Assets/Scenes/bossRoom2/bossRoom2.unity
+    guid: e814a23bbf2dbf4478eab8eddf4ab715
+  - enabled: 1
+    path: Assets/Scenes/bossRoom3/bossRoom3.unity
+    guid: 7fbc155167bffb24c9c14235079918da
+  - enabled: 1
+    path: Assets/Scenes/victoryScreen.unity
+    guid: bdf0bb1d4e7288843a9e994ec294d150
+  - enabled: 1
+    path: Assets/Scenes/deathScene.unity
+    guid: cbdc539dc5970dd4799b1020fcbb1b2f
+  m_configObjects: {}

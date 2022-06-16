@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: fafa6707ec92222468966a1cb954a459
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 3999008403043030105
+    second: T-POSE
+  - first:
+      74: -6857550269393268992
+    second: Certa|Andando
+  - first:
+      74: 8900485129775702974
+    second: Certa|Ataque
+  - first:
+      74: 2603983589081748930
+    second: Certa|Ataque2
+  - first:
+      74: 1058400257692732587
+    second: Certa|Correndo
+  - first:
+      74: -118499671706160185
+    second: Certa|Idle
+  - first:
+      74: -6573770593142614338
+    second: 'Certa|Morrendo '
+  - first:
+      74: 8768526962526221429
+    second: Certa|pulo
+  - first:
+      74: 4699843778346908097
+    second: Certa|Rolando
+  - first:
+      74: -6726314496291815764
+    second: Certa|T-POSE
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cinto
+    second: {fileID: 2100000, guid: e7f35b01d0a57674dbb714065e4ada0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: e14b2941e9ac2af42bd99e9b9f13732c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 18703bf2918c8254f889faaa1dd1a77e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.001
+    second: {fileID: 2100000, guid: bf6343171628a074eb7dc2f247b6cdd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camisa
+    second: {fileID: 2100000, guid: 436cb6d00cfc6e44b9bc9983a53ecde7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meio saia
+    second: {fileID: 2100000, guid: d74e7b530abdfe54fb0e47df845df3e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: saia
+    second: {fileID: 2100000, guid: d08c5cd4e8e05ee44a9b1f59236fdb75, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: ast_enemy_boss(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Espada
+      parentName: ast_enemy_boss(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.122405134, y: 0.122405134, z: 0.122405134}
+    - name: Player
+      parentName: ast_enemy_boss(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.122405134, y: 0.122405134, z: 0.122405134}
+    - name: Certa
+      parentName: ast_enemy_boss(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.122405134, y: 0.122405134, z: 0.122405134}
+    - name: ROOT
+      parentName: Certa
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: DEF-Perna.L
+      parentName: ROOT
+      position: {x: -0.48154923, y: -0.20194283, z: 3.6416109}
+      rotation: {x: -0.121791884, y: 0.7224607, z: -0.68059707, w: -0.0022360252}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: DEF-Canela.L
+      parentName: ROOT
+      position: {x: -0.7515733, y: -0.13571446, z: 2.15914}
+      rotation: {x: -0.042236984, y: 0.73490727, z: -0.67684746, w: -0.002198677}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: DEF-Pe.L
+      parentName: ROOT
+      position: {x: -0.8676004, y: 0.0072953543, z: 0.3851992}
+      rotation: {x: 0.00000022301104, y: -0.26498863, z: 0.9642515, w: -0.00000007680845}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: DEF-DedoPe.L
+      parentName: ROOT
+      position: {x: -0.8676004, y: -0.6763435, z: -0.021241397}
+      rotation: {x: 0.02363301, y: 0.0031843374, z: 0.9997156, w: 0.00007519947}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+    - name: DEF-Clavicola.L
+      parentName: ROOT
+      position: {x: -0.17285194, y: -0.42570835, z: 7.1765523}
+      rotation: {x: 0.11678671, y: 0.0946046, z: 0.5715499, w: 0.8066856}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: DEF-Braco.L
+      parentName: ROOT
+      position: {x: -0.9527976, y: -0.03747256, z: 7.2653465}
+      rotation: {x: 0.001986901, y: 0.00722284, z: 0.67970675, w: 0.73344576}
+      scale: {x: 1.0000001, y: 0.9999995, z: 1}
+    - name: DEF-Antibraco.L
+      parentName: ROOT
+      position: {x: -2.3589277, y: 0.06969747, z: 7.2833047}
+      rotation: {x: 0.01397662, y: 0.015179355, z: 0.73789746, w: 0.67459744}
+      scale: {x: 1, y: 0.99999976, z: 1}
+    - name: DEF-Mao.L
+      parentName: ROOT
+      position: {x: -3.4603043, y: -0.02921943, z: 7.328968}
+      rotation: {x: -0.018625062, y: -0.018986175, z: 0.7136104, w: 0.7000377}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: DEF-Dedo.L.001
+      parentName: ROOT
+      position: {x: -4.087322, y: -0.039973117, z: 7.395619}
+      rotation: {x: -0.055608388, y: -0.05661923, z: 0.712055, w: 0.69762427}
+      scale: {x: 1.0000004, y: 1, z: 1}
+    - name: DEF-Dedo.L.005
+      parentName: ROOT
+      position: {x: -4.441293, y: -0.047226507, z: 7.3388877}
+      rotation: {x: -0.050189175, y: -0.048958004, z: 0.7166102, w: 0.6939409}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: DEF-Dedo.L.009
+      parentName: ROOT
+      position: {x: -4.6768913, y: -0.05486784, z: 7.3056006}
+      rotation: {x: -0.03465802, y: -0.035018794, z: 0.706257, w: 0.70623904}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: DEF-Dedo.L.013
+      parentName: ROOT
+      position: {x: -4.91249, y: -0.0548679, z: 7.282301}
+      rotation: {x: -0.050189346, y: -0.048957825, z: 0.7166102, w: 0.69394094}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: DEF-Dedo.L
+      parentName: ROOT
+      position: {x: -4.024615, y: 0.20345561, z: 7.395619}
+      rotation: {x: -0.106180325, y: -0.10767179, z: 0.62248814, w: 0.76788086}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: DEF-Dedo.L.004
+      parentName: ROOT
+      position: {x: -4.312923, y: 0.26601225, z: 7.303819}
+      rotation: {x: -0.052896883, y: -0.06994257, z: 0.63081795, w: 0.77095956}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: DEF-Dedo.L.008
+      parentName: ROOT
+      position: {x: -4.590574, y: 0.32312074, z: 7.2549763}
+      rotation: {x: -0.0022231978, y: -0.018048937, z: 0.6676224, w: 0.74427795}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: DEF-Dedo.L.012
+      parentName: ROOT
+      position: {x: -4.80051, y: 0.34605366, z: 7.249185}
+      rotation: {x: -0.05289738, y: -0.06994258, z: 0.63081807, w: 0.77095944}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: DEF-Dedo.L.002
+      parentName: ROOT
+      position: {x: -4.028761, y: -0.25099358, z: 7.395619}
+      rotation: {x: -0.03407385, y: -0.031932205, z: 0.7887073, w: 0.6129927}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: DEF-Dedo.L.006
+      parentName: ROOT
+      position: {x: -4.370574, y: -0.33830637, z: 7.362973}
+      rotation: {x: -0.110659525, y: -0.10272521, z: 0.7792741, w: 0.6082219}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: DEF-Dedo.L.010
+      parentName: ROOT
+      position: {x: -4.581691, y: -0.3928484, z: 7.2957244}
+      rotation: {x: -0.10304134, y: -0.07952134, z: 0.77828825, w: 0.61426896}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+    - name: DEF-Dedo.L.014
+      parentName: ROOT
+      position: {x: -4.7807126, y: -0.44212914, z: 7.242701}
+      rotation: {x: -0.07262667, y: -0.10436439, z: 0.7692004, w: 0.6262302}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999999}
+    - name: DEF-Dedo.L.003
+      parentName: ROOT
+      position: {x: -3.8246737, y: -0.21433757, z: 7.3600755}
+      rotation: {x: 0.034429803, y: -0.3113804, z: 0.9493111, w: -0.025794832}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: DEF-Dedo.L.007
+      parentName: ROOT
+      position: {x: -3.81374, y: -0.53390914, z: 7.124604}
+      rotation: {x: 0.0145914005, y: -0.1177219, z: 0.9900824, w: -0.075270094}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: DEF-Dedo.L.011
+      parentName: ROOT
+      position: {x: -3.788325, y: -0.7016328, z: 7.0835342}
+      rotation: {x: 0.0026643388, y: -0.024155991, z: 0.99895394, w: -0.03873647}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999998}
+    - name: DEF-Anca
+      parentName: ROOT
+      position: {x: -6.2883726e-17, y: 0.36818796, z: 3.570878}
+      rotation: {x: 0.8210673, y: 0.00000011114496, z: 0.00000015986772, w: 0.5708315}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DEF-Coluna
+      parentName: ROOT
+      position: {x: -6.2883726e-17, y: -0.20194317, z: 5.1052623}
+      rotation: {x: 0.6778267, y: -0.00000008764534, z: -0.00000008080329, w: 0.73522174}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DEF-Costas
+      parentName: ROOT
+      position: {x: -6.2883726e-17, y: -0.10288382, z: 6.3226547}
+      rotation: {x: 0.67782664, y: -0.00000008764529, z: -0.00000008080323, w: 0.73522174}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DEF-Pescoco
+      parentName: ROOT
+      position: {x: -6.2883726e-17, y: -0.0038239383, z: 7.5400467}
+      rotation: {x: 0.95261323, y: -0.000000036261593, z: -0.00000011356032, w: 0.30418438}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: DEF-Cabeca
+      parentName: ROOT
+      position: {x: -6.2888385e-17, y: -0.43025595, z: 7.8433}
+      rotation: {x: 0.7071068, y: -0.00000008429378, z: -0.00000008429375, w: 0.7071067}
+      scale: {x: 1, y: 0.9999991, z: 0.99999994}
+    - name: DEF-Perna.R
+      parentName: ROOT
+      position: {x: 0.4815493, y: -0.20194286, z: 3.6416113}
+      rotation: {x: 0.12179231, y: 0.7224607, z: -0.68059695, w: 0.0022356394}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: DEF-Canela.R
+      parentName: ROOT
+      position: {x: 0.7515731, y: -0.13571458, z: 2.15914}
+      rotation: {x: 0.042237446, y: 0.7349071, z: -0.67684764, w: 0.0021982433}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: DEF-Pe.R
+      parentName: ROOT
+      position: {x: 0.8676004, y: 0.0072953543, z: 0.3851992}
+      rotation: {x: -0.00000022301104, y: -0.26498863, z: 0.9642515, w: 0.00000007680845}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: DEF-DedoPe.R
+      parentName: ROOT
+      position: {x: 0.8676004, y: -0.6763435, z: -0.021241397}
+      rotation: {x: -0.02363301, y: 0.0031843374, z: 0.9997156, w: -0.00007519947}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+    - name: DEF-Clavicola.R
+      parentName: ROOT
+      position: {x: 0.17285196, y: -0.42570844, z: 7.1765523}
+      rotation: {x: 0.11678668, y: -0.09460457, z: -0.5715499, w: 0.8066856}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DEF-Braco.R
+      parentName: ROOT
+      position: {x: 0.9527976, y: -0.037472807, z: 7.2653465}
+      rotation: {x: 0.0019868, y: -0.0072229113, z: -0.6797069, w: 0.73344564}
+      scale: {x: 0.9999998, y: 0.9999996, z: 1}
+    - name: DEF-Antibraco.R
+      parentName: ROOT
+      position: {x: 2.3589272, y: 0.06969672, z: 7.2833047}
+      rotation: {x: 0.013976543, y: -0.015179456, z: -0.73789716, w: 0.6745977}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1}
+    - name: DEF-Mao.R
+      parentName: ROOT
+      position: {x: 3.4603038, y: -0.02921952, z: 7.328968}
+      rotation: {x: -0.018625068, y: 0.018986182, z: -0.7136104, w: 0.7000377}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: DEF-Dedo.R.001
+      parentName: ROOT
+      position: {x: 4.0873218, y: -0.039973207, z: 7.395619}
+      rotation: {x: -0.05560837, y: 0.05661924, z: -0.712055, w: 0.6976243}
+      scale: {x: 1.0000004, y: 0.9999997, z: 0.9999995}
+    - name: DEF-Dedo.R.005
+      parentName: ROOT
+      position: {x: 4.4412923, y: -0.047226533, z: 7.3388877}
+      rotation: {x: -0.05018915, y: 0.048958015, z: -0.7166102, w: 0.6939409}
+      scale: {x: 1.0000002, y: 0.99999976, z: 0.9999996}
+    - name: DEF-Dedo.R.009
+      parentName: ROOT
+      position: {x: 4.676891, y: -0.054867826, z: 7.3056006}
+      rotation: {x: -0.034658, y: 0.035018813, z: -0.7062569, w: 0.7062391}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999964}
+    - name: DEF-Dedo.R.013
+      parentName: ROOT
+      position: {x: 4.9124894, y: -0.054867838, z: 7.282301}
+      rotation: {x: -0.050189346, y: 0.048957855, z: -0.7166101, w: 0.6939411}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999996}
+    - name: DEF-Dedo.R
+      parentName: ROOT
+      position: {x: 4.0246143, y: 0.20345558, z: 7.395619}
+      rotation: {x: -0.106180355, y: 0.1076718, z: -0.62248814, w: 0.76788086}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: DEF-Dedo.R.004
+      parentName: ROOT
+      position: {x: 4.3129225, y: 0.26601225, z: 7.303819}
+      rotation: {x: -0.052896902, y: 0.069942586, z: -0.6308179, w: 0.7709596}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: DEF-Dedo.R.008
+      parentName: ROOT
+      position: {x: 4.5905733, y: 0.32312077, z: 7.2549763}
+      rotation: {x: -0.0022232009, y: 0.018048977, z: -0.6676224, w: 0.74427795}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: DEF-Dedo.R.012
+      parentName: ROOT
+      position: {x: 4.8005095, y: 0.3460537, z: 7.249185}
+      rotation: {x: -0.052897386, y: 0.06994261, z: -0.6308179, w: 0.77095956}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000001}
+    - name: DEF-Dedo.R.002
+      parentName: ROOT
+      position: {x: 4.0287604, y: -0.25099373, z: 7.395619}
+      rotation: {x: -0.034073863, y: 0.031932164, z: -0.7887073, w: 0.6129927}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: DEF-Dedo.R.006
+      parentName: ROOT
+      position: {x: 4.3705735, y: -0.3383065, z: 7.362973}
+      rotation: {x: -0.110659555, y: 0.10272517, z: -0.7792741, w: 0.60822195}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: DEF-Dedo.R.010
+      parentName: ROOT
+      position: {x: 4.5816903, y: -0.39284855, z: 7.2957244}
+      rotation: {x: -0.103041366, y: 0.07952127, z: -0.77828825, w: 0.61426896}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+    - name: DEF-Dedo.R.014
+      parentName: ROOT
+      position: {x: 4.780712, y: -0.4421293, z: 7.242701}
+      rotation: {x: -0.0726267, y: 0.10436433, z: -0.7692004, w: 0.6262302}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.9999999}
+    - name: DEF-Dedo.R.003
+      parentName: ROOT
+      position: {x: 3.824674, y: -0.21433719, z: 7.360076}
+      rotation: {x: -0.034429803, y: -0.31138036, z: 0.9493111, w: 0.025794834}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: DEF-Dedo.R.007
+      parentName: ROOT
+      position: {x: 3.8137403, y: -0.53390884, z: 7.1246047}
+      rotation: {x: -0.014591362, y: -0.117721796, z: 0.9900824, w: 0.07526996}
+      scale: {x: 0.9999998, y: 1, z: 0.99999976}
+    - name: DEF-Dedo.R.011
+      parentName: ROOT
+      position: {x: 3.7883255, y: -0.70163256, z: 7.0835347}
+      rotation: {x: -0.0026643171, y: -0.02415591, z: 0.99895394, w: 0.038736336}
+      scale: {x: 0.99999994, y: 1, z: 0.99999964}
+    - name: DEF-Espada
+      parentName: Certa
+      position: {x: 4.285885, y: 0.19838434, z: 6.963849}
+      rotation: {x: 0.70682335, y: -0.020043375, z: -0.706822, w: -0.020043304}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: ROOT
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
